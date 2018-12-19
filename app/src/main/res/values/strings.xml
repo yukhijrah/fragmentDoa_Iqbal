@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kumpulan Doa</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_doa">Doa</string>
+    <string name="menu_profile">Profile</string>
+
+</resources>
